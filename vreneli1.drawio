@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" version="29.2.9">
   <diagram name="Страница-1" id="ruc9ee0azE3XMbhnDRlV">
-    <mxGraphModel dx="1533" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2221" dy="2143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,7 +173,7 @@
           <mxGeometry height="4.665236216357698" width="4.672539772115442" x="325.86796084247567" y="-15.124687541480853" as="geometry" />
         </mxCell>
         <mxCell id="iM6ck3t2oWJ3A6dFczSn-55" parent="1" style="swimlane;" value="Оптимальный канал коммуникации" vertex="1">
-          <mxGeometry height="425.73" width="427" x="415" y="610" as="geometry" />
+          <mxGeometry height="380" width="427" x="415" y="610" as="geometry" />
         </mxCell>
         <mxCell id="iM6ck3t2oWJ3A6dFczSn-75" edge="1" parent="iM6ck3t2oWJ3A6dFczSn-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
